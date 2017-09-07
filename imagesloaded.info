@@ -1,0 +1,5 @@
+name = imagesLoaded
+description = Simple wrapper for the imagesLoaded library (v4.1.1) to make it available to other modules.
+backdrop = 1.x
+type = module
+package = Bundled Libraries
