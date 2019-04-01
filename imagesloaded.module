@@ -13,7 +13,7 @@ function imagesloaded_library_info() {
   $libraries['imagesloaded'] = array(
     'title' => 'imagesLoaded',
     'website' => 'https://github.com/desandro/imagesloaded',
-    'version' => '4.1.1',
+    'version' => '4.1.4',
     'js' => array(
       backdrop_get_path('module', 'imagesloaded') . '/library/imagesloaded.pkgd.min.js' => array(),
     ),
