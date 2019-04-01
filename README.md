@@ -1,4 +1,4 @@
-imagesLoaded (v4.1.1)
+imagesLoaded (v4.1.4)
 ======================
 
 This module is a wrapper for the [imagesLoaded library](https://github.com/desandro/imagesloaded), 
